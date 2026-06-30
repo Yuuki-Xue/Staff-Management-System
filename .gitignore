@@ -61,6 +61,9 @@ x86/
 # 访客账号硬编码在代码里（Menu.cpp:91），viewers.txt 是死文件，不上传
 viewers.txt
 
+# 编码转换的 GBK 备份（transcode script 输出），不上传
+.backup_gbk/
+
 # ===========================
 # IDE / 编辑器
 # ===========================
