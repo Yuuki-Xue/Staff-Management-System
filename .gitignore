@@ -1,0 +1,71 @@
+# ===========================
+# Visual Studio 临时文件 / 缓存
+# ===========================
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+*.aps
+*.pch
+*.vsp
+*.vspx
+*.saplog
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+
+# ===========================
+# 编译输出
+# ===========================
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.obj
+*.exp
+*.idb
+*.ipdb
+*.iobj
+*.log
+*.tlog
+*.lastbuildstate
+*.unsuccessfulbuild
+*.idb
+*.tmp_proj
+
+# ===========================
+# 测试 / 临时 / 备份
+# ===========================
+*.bak
+*.tmp
+*.swp
+*.swo
+*~
+
+# ===========================
+# IDE / 编辑器
+# ===========================
+.vscode/
+.idea/
+*.code-workspace
+
+# ===========================
+# OS 垃圾
+# ===========================
+Thumbs.db
+.DS_Store
+desktop.ini
+$RECYCLE.BIN/
